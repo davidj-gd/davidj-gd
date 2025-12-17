@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on **Bloodborne-inspired Combat System (School Project)**
 
 - 🌱 I’m currently learning
- Unreal Engine C++ frameworks: Enhanced Input, modular combat systems, DataAssets for serialization, and scalable gameplay architecture
- Unity prototyping frameworks: Input buffering, combo logic, runtime visualizers, and prefab-based combat systems for designer clarity
- Modular combat design: Building extensible attack frameworks with state management, animation/VFX integration, and designer-friendly controls
- Workflow optimization: Git LFS setup, disciplined branching
- Team communication & documentation: Iterative pitch writing, technical breakdowns, and audience-aware project presentations
+ - Unreal Engine C++ frameworks: Enhanced Input, modular combat systems, DataAssets for serialization, and scalable gameplay architecture
+ - Unity prototyping frameworks: Input buffering, combo logic, runtime visualizers, and prefab-based combat systems for designer clarity
+ - Modular combat design: Building extensible attack frameworks with state management, animation/VFX integration, and designer-friendly controls
+ - Workflow optimization: Git LFS setup, disciplined branching
+ - Team communication & documentation: Iterative pitch writing, technical breakdowns, and audience-aware project presentations
 
 
 - 📫 How to reach me **nipsett@gmail.com**
