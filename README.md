@@ -10,13 +10,15 @@ Building towards a role in gameplay/systems programming at a AAA studio.
 ---
 
 ## Projects
-What you can find in the pinned repo named "Portfolio Projects" is:
 
-| Project | Engine | Type | Time | Key Systems |
-|--------|--------|------|------|-------------|
-| [Escape] | UE5.6 | Narrative Co-op — Vertical Slice | 7 Weeks | Interaction System, Split-Screen, Cinematic Scripting |
-| [Axiom] | UE5.7 | C++ Systems Showcase | 4 Weeks | Modular Components, Interfaces, Weapon/Health/Interaction Systems |
-| [Bubble Buddies] | UE5.7 | Prototype | 7 Days | NPC Interaction, Objective System, Game Feel |
+What you can find in this repo:
+
+| Project | Engine / Language | Type | Time | Key Systems |
+|---------|------------------|------|------|-------------|
+| [Escape] | UE5.6 — C++ | Narrative Co-op — Vertical Slice | 7 Weeks | Interaction System, Split-Screen, Cinematic Scripting |
+| [Axiom] | UE5.7 — C++ | Systems Showcase | 4 Weeks | Modular Components, Interfaces, Weapon/Health/Interaction Systems |
+| [VectorMath] | C++ | School Assignment | — | Vector math, dot/cross products, spatial reasoning |
+| [Algorithms] | C++ | School Assignment | — | Sorting algorithms, Big O complexity analysis, scaling behaviour |
 
 ---
 
