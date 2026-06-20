@@ -1,24 +1,35 @@
-<h1 align="center">Hi 👋, I'm David Johansson</h1>
-<h3 align="center">Game Programming Student Based in Stockholm</h3>
+# Portfolio Projects — David Nipsett
 
-- 🔭 I’m currently working on **Bloodborne-inspired Combat System (School Project)**
+Game Programmer & Art Director based in Stockholm, Sweden.  
+Currently studying Game Programming at Forsbergs Skola.  
+Building towards a role in gameplay/systems programming at a AAA studio.
 
-- 🌱 I’m currently learning
- - Unreal Engine C++ frameworks: Enhanced Input, modular combat systems, DataAssets for serialization, and scalable gameplay architecture
- - Unity prototyping frameworks: Input buffering, combo logic, runtime visualizers, and prefab-based combat systems for designer clarity
- - Modular combat design: Building extensible attack frameworks with state management, animation/VFX integration, and designer-friendly controls
- - Workflow optimization: Git LFS setup, disciplined branching
- - Team communication & documentation: Iterative pitch writing, technical breakdowns, and audience-aware project presentations
+🌐 **Portfolio:** [davidnipsett.com](https://www.davidnipsett.com)  
+📧 **Contact:** nipsett@gmail.com
 
+---
 
-- 📫 How to reach me **nipsett@gmail.com**
+## Projects
 
-- 📄 Know about my experiences [link](link)
+| Project | Engine | Type | Time | Key Systems |
+|--------|--------|------|------|-------------|
+| [Escape](./Escape) | UE5.6 | Narrative Co-op — Vertical Slice | 7 Weeks | Interaction System, Split-Screen, Cinematic Scripting |
+| [Axiom](./Axiom) | UE5.7 | C++ Systems Showcase | 4 Weeks | Modular Components, Interfaces, Weapon/Health/Interaction Systems |
+| [Bubble Buddies](./BubbleBuddies) | UE5.7 | Prototype | 7 Days | NPC Interaction, Objective System, Game Feel |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## About
 
+I came to game programming after 10+ years of professional work in graphic design and fashion — building brands, directing visuals for Sony Music Publishing, Universal Music, Skillibeng, Popcaan and others.
+
+That background informs how I build games. I think about systems architecturally and about player experience visually. Every technical decision connects back to how something feels to play.
+
+I've been programming in C++ and UE5 for under a year. These projects represent what I've built in that time.
+
+---
+
+## Code Notes
+
+These repositories contain source code only — no assets, no bought content, no full project files.  
+For full case studies, gameplay videos, and system breakdowns visit **[davidnipsett.com/gamedevelopment](https://www.davidnipsett.com/gamedevelopment)**
