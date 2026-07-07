@@ -19,6 +19,7 @@ What you can find in this repo:
 | [Axiom] | UE5.7 — C++ | Systems Showcase | 4 Weeks | Modular Components, Interfaces, Weapon/Health/Interaction Systems |
 | [VectorMath] | C++ | School Assignment | — | Vector math, dot/cross products, spatial reasoning |
 | [Algorithms] | C++ | School Assignment | — | Sorting algorithms, Big O complexity analysis, scaling behaviour |
+| [Perfect Guard] | UE5.8 — C++ | Combat Systems Showcase | 4 Weeks | Game feel, Smart AI, AnimNotifies, Combat system |
 
 ---
 
