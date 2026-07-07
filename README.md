@@ -11,7 +11,7 @@ Building towards a role in gameplay/systems programming at a AAA studio.
 
 ## Projects
 
-What you can find in this repo:
+What you can find in the pinned repo down below:
 
 | Project | Engine / Language | Type | Time | Key Systems |
 |---------|------------------|------|------|-------------|
