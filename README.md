@@ -2,7 +2,7 @@
 
 Game Programmer & Art Director based in Stockholm, Sweden.  
 Currently studying Game Programming at Forsbergs Skola.  
-Building towards a role in gameplay/systems programming at a AAA studio.
+Building towards a role in gameplay/systems programming.
 
 🌐 **Portfolio:** [davidnipsett.com](https://www.davidnipsett.com)  
 📧 **Contact:** nipsett@gmail.com
