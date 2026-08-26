@@ -15,7 +15,7 @@ What you can find in the pinned repo down below:
 
 | Project | Engine / Language | Type | Time | Key Systems |
 |---------|------------------|------|------|-------------|
-| [Contact] | UE5.8 — C++ | Tactical Shooter | — | Utility-scored AI decision-making, runtime debug visualizer, physics-material hit reactions |
+| [Contact] | UE5.8 — C++ | Tactical Shooter | 4 Weeks | Utility-scored AI decision-making, runtime debug visualizer, physics-material hit reactions, realistic FPS feel |
 | [Perfect Guard] | UE5.8 — C++ | Combat Systems Showcase | 4 Weeks | Deflect-based combat, behaviour-tree AI, player state machine, custom Editor Utility Widget |
 | [Escape] | UE5.6 — C++ | Narrative Co-op — Vertical Slice | 7 Weeks | Interface-driven interaction system, split-screen logic, cinematic scripting |
 | [Axiom] | UE5.7 — C++ | Systems Showcase | 4 Weeks | Modular components (Weapon, Health, Interaction), interface-driven architecture |
